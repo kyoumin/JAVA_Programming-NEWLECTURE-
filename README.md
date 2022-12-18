@@ -1,7 +1,7 @@
 # JAVA_Programming-NEWLECTURE-
 
 
-<h1>팀원 소개
+<h3>팀원 소개
 <table>
   <tbody>
     <tr>
